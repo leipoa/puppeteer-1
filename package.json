@@ -1,0 +1,17 @@
+{
+  "name": "jsaqa_3_3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "jest-puppeteer": "^10.0.1",
+    "puppeteer": "^13.3.2"
+  },
+  "keywords": [],
+  "description": ""
+}
